@@ -1,0 +1,159 @@
+[
+    {
+    "id":1,
+    "name": "Flowers",
+    "price": 1500,
+    "category": "nature",
+    "colors": [
+    "#1b4f87",
+    "#ffffff"
+    ],
+    "description": "This is a painting of flowers made with oil pastels.",
+    "image": "https://t4.ftcdn.net/jpg/01/35/49/05/240_F_135490522_9GD4FaP2KSNq3hHWtQiW5rwbRzvRaaqZ.jpg",
+    "featured": true
+    },
+    {
+    "id":2,
+    "name": "Eiffel Tower",
+    "price": 2000,
+    "category": "places",
+    "colors": [
+    "#1b4f87",
+    "#f56725",
+    "#f5e425"
+    ],
+    "description": "Oil painting of Eiffel tower, France, art work",
+    "image": "https://as2.ftcdn.net/v2/jpg/00/76/80/97/1000_F_76809767_Gb6A91Jm9DvdFe6UuUHQkzhcUyYjZCJf.jpg",
+    "featured": true
+    },
+    {
+    "id":3,
+    "name": "Girl",
+    "price": 4676,
+    "category": "person",
+    "colors": [
+    "#ffdfbd",
+    "#a87d4f"
+    ],
+    "description": "A fragment of a painting depicting a young girl. Blue-eyed girl with a pigtail. Oil painting on canvas.",
+    "image": "https://i1.sndcdn.com/artworks-000646302679-oivkjd-t500x500.jpg",
+    "featured": true
+    },  
+    {
+    "id":4,
+    "name": "Venice",
+    "price": 1900,
+    "category": "places",
+    "colors": [
+    "#f5e425",
+    "#f56725",
+    "#288a88"
+    ],
+    "description": "night landscape to Venice",
+    "image": "https://as1.ftcdn.net/v2/jpg/00/62/97/78/1000_F_62977895_kp7KEQrPB2b4AXYiDNLQoWbIYjCjmw5M.jpg",
+    "featured": false
+    },
+    {
+        "id":5,
+    "name": "Deer",
+    "price": 2579,
+    "category": "animals",
+    "colors": [
+    "#a87d4f",
+    "#ffdfbd"
+    ],
+    "description": "Watercolor painting of Portrait of majestic red deer stag in Autumn Fall",
+    "image": "https://as2.ftcdn.net/v2/jpg/02/55/34/17/1000_F_255341717_v1nenvkChk83jFK860waJbS7dxDII2d4.jpg",
+    "featured": false
+    },
+    {
+        "id":6,
+    "name": "Girl Guitar",
+    "price": 5000,
+    "category": "person",
+    "colors": [
+    "#ffdfbd",
+    "#a87d4f"
+    ],
+    "description": "The girl plays the guitar.",
+    "image": "https://as2.ftcdn.net/v2/jpg/04/42/61/87/1000_F_442618700_rs9g067ckkYk31GYd8fEmunerI6FwuhO.jpg",
+    "featured": false
+    },
+    {
+        "id":7,
+    "name": "Sunrise",
+    "price": 4000,
+    "category": "nature",
+    "colors": [
+    "#ffdfbd",
+    "#f5e425",
+    "#3c7539"
+    ],
+    "description": "oil painting - sunrise in the field",
+    "image": "https://as2.ftcdn.net/v2/jpg/00/78/36/47/1000_F_78364742_j56eRhY4xqDTNLNtQrwo2V0XYefQTUI2.jpg",
+    "featured": false
+    },
+    {
+        "id":8,
+    "name": "Horse",
+    "price": 3250,
+    "category": "animals",
+    "colors": [
+    "#288a88",
+    "#972aad"
+    ],
+    "description": "A painting of a horse",
+    "image": "https://as1.ftcdn.net/v2/jpg/05/50/71/24/1000_F_550712411_kd5IpGFuxXXo5gEOvwmrB0LtemcMr3lB.jpg",
+    "featured": false
+    },
+    {
+        "id":9,
+    "name": "Couple",
+    "price": 1200,
+    "category": "love",
+    "colors": [
+    "#db1a21",
+    "#b5b3b3"
+    ],
+    "description": "man and woman under a red umbrella",
+    "image": "https://as2.ftcdn.net/v2/jpg/01/33/94/81/1000_F_133948127_PCGut1Bi3fu27nvRpMSLQ7N02HTsm1A2.jpg",
+    "featured": false
+    },
+    {
+        "id":10,
+    "name": "Cherry Tree",
+    "price": 2500,
+    "category": "nature",
+    "colors": [
+    "#ed5a89"
+    ],
+    "description": "oriental cherry tree",
+    "image": "https://as1.ftcdn.net/v2/jpg/01/09/03/06/1000_F_109030602_WxBM4CXc5lQed4RqI9CW2n43UB9lDW9a.jpg",
+    "featured": false
+    },
+    {
+        "id":11,
+    "name": "Spectrum Lion",
+    "price": 3500,
+    "category": "animals",
+    "colors": [
+    "#f56725",
+    "#f5e425"
+    ],
+    "description": "Spectrum Lion",
+    "image": "https://as2.ftcdn.net/v2/jpg/03/42/94/23/1000_F_342942300_qZ68GWnOzfRZMGIbSh7hljNr8DmDmj4T.jpg",
+    "featured": false
+    },
+    {
+        "id":12,
+    "name": "Romance",
+    "price": 2000,
+    "category": "love",
+    "colors": [
+    "#f5e425"
+    ],
+    "description": "Oil painting romance and love",
+    "image": "https://as2.ftcdn.net/v2/jpg/02/78/69/07/1000_F_278690792_g2Ch1yENyfb3rW78SHYBDg2j3Hz8iFFE.jpg",
+    "featured": false
+    }
+    ]
